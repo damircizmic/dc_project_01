@@ -1,2 +1,6 @@
 Some text
+<<<<<<< HEAD
 More text
+=======
+=========
+>>>>>>> ef862853a3b37b8711312f747563b306a19eafca
