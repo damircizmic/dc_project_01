@@ -18,3 +18,5 @@ Some text
 ======================
 new code on dev branch
 Consflict solved
+======================
+Testing fetch
