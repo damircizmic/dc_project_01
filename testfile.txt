@@ -16,7 +16,6 @@ Some text
 ========= add 7 ===
 2019-07-16
 ======================
-new code on dev branch
-Consflict solved
+========= add 8 ===
+2019-07-23
 ======================
-Testing fetch
